@@ -1,2 +1,3 @@
 # DoctorWolf
-RayCasting horror game using CSFML
+RayCasting horror game using CSFML<br />
+<img src="wolf.png" />
